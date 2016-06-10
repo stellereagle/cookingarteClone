@@ -1,0 +1,25 @@
+.feedback{position:relative;
+margin:0 auto;
+top:50px;
+font-size:14px;
+height:auto;
+min-height:4px;
+width:550px;
+min-width:500px;
+border:1px solid rgba(228, 123, 0, 0.3);
+padding:0px;
+background-color:#F5E9C3;
+background-color:rgba(245, 233, 195, 0.32);}
+.feedback p{width:100%;text-align:center}
+.feedback a{color:#E47B00}
+.feedback .error{color:#b10700}
+.form{position:relative;top:130px;width:550px;margin:0 auto;min-height:80px;min-width:500px}
+.form p{font-size:15px;color:#F28F32}
+.form input[type='email'],.form input[type='password']{width:199px;height:22px;border:none;color:black;font-size:14px;border:1px solid #E8A249;background:transparent}
+.form .loading{
+display:none;
+position:relative;
+top:9px;
+left:83px;
+}
+.form input[type='submit']{position:relative;top:4px;width:100px;height:25px;margin-left:20px;background-color:#E57B00;color:white;border-radius:2px;font-size:13px;padding:2px;cursor:pointer;border:none}.form input[type='submit']:hover{background-color:rgba(228,123,0,0.9)}.form .sign_up .p{font-style:italic;font-size:12px;color:#DDD}.form .sign_up a{font-size:13px;color:#E47B00;text-decoration:none}.form .sign_up a:hover{text-decoration:underline}
