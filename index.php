@@ -3,7 +3,7 @@
 <?
 include'header.inc.php';
 ?>
-<title>Bonjour from cookingarte</title>
+<title>Cookingarte</title>
 <script type="text/javascript" src="http://www.cookingarte.com/js/index.js"></script>
 <?php if(!isset($_SESSION['id'])){
 	include 'no_s_logs.inc.php';
